@@ -1,0 +1,16 @@
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\bin\Debug\SplittingTheBillProblemTest.dll
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\bin\Debug\SplittingTheBillProblemTest.pdb
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\bin\Debug\SplittingTheBillProblem.exe
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\bin\Debug\SplittingTheBillProblem.pdb
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\bin\Debug\SplittingTheBillProblem.exe.config
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\obj\Debug\SplittingTheBillProblemTest.csprojResolveAssemblyReference.cache
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\obj\Debug\SplittingTheBillProblemTest.csproj.CoreCompileInputs.cache
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\obj\Debug\SplittingTheBillProblemTest.dll
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblemTest\obj\Debug\SplittingTheBillProblemTest.pdb

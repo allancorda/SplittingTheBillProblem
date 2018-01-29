@@ -1,0 +1,7 @@
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblem\bin\Debug\SplittingTheBillProblem.exe.config
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblem\bin\Debug\SplittingTheBillProblem.exe
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblem\bin\Debug\SplittingTheBillProblem.pdb
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblem\obj\Debug\SplittingTheBillProblem.csproj.CoreCompileInputs.cache
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblem\obj\Debug\SplittingTheBillProblem.exe
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblem\obj\Debug\SplittingTheBillProblem.pdb
+C:\Users\AllanCorda\Desktop\SplittingTheBillProblem\SplittingTheBillProblem\obj\Debug\SplittingTheBillProblem.csprojResolveAssemblyReference.cache
